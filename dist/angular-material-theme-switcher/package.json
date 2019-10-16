@@ -1,19 +1,38 @@
 {
-  "name": "angular-material-theme-switcher",
-  "version": "0.0.1",
+  "name": "@sheyxneo/angular-material-theme-switcher",
+  "version": "1.0.0",
+  "description": "This library will help you to use multiple themes and easily switch between them in your project.",
+  "author": "SheyXNeo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SheyXNeo/angular-material-theme-switcher.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SheyXNeo/angular-material-theme-switcher/issues"
+  },
+  "homepage": "https://sheyxneo.github.io/angular-material-theme-switcher/",
+  "keywords": [
+    "angular-material",
+    "angular-material-theme",
+    "angular-material-theme-switcher",
+    "material-theme-switcher",
+    "theme-switcher",
+    "material-theme"
+  ],
+  "license": "MIT",
   "peerDependencies": {
     "@angular/common": "^8.2.9",
     "@angular/core": "^8.2.9"
   },
-  "main": "bundles/angular-material-theme-switcher.umd.js",
-  "module": "fesm5/angular-material-theme-switcher.js",
-  "es2015": "fesm2015/angular-material-theme-switcher.js",
-  "esm5": "esm5/angular-material-theme-switcher.js",
-  "esm2015": "esm2015/angular-material-theme-switcher.js",
-  "fesm5": "fesm5/angular-material-theme-switcher.js",
-  "fesm2015": "fesm2015/angular-material-theme-switcher.js",
-  "typings": "angular-material-theme-switcher.d.ts",
-  "metadata": "angular-material-theme-switcher.metadata.json",
+  "main": "bundles/sheyxneo-angular-material-theme-switcher.umd.js",
+  "module": "fesm5/sheyxneo-angular-material-theme-switcher.js",
+  "es2015": "fesm2015/sheyxneo-angular-material-theme-switcher.js",
+  "esm5": "esm5/sheyxneo-angular-material-theme-switcher.js",
+  "esm2015": "esm2015/sheyxneo-angular-material-theme-switcher.js",
+  "fesm5": "fesm5/sheyxneo-angular-material-theme-switcher.js",
+  "fesm2015": "fesm2015/sheyxneo-angular-material-theme-switcher.js",
+  "typings": "sheyxneo-angular-material-theme-switcher.d.ts",
+  "metadata": "sheyxneo-angular-material-theme-switcher.metadata.json",
   "sideEffects": false,
   "dependencies": {
     "tslib": "^1.9.0"
