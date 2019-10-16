@@ -1,0 +1,10 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/*
+ * Public API Surface of angular-material-theme-switcher
+ */
+export { AngularMaterialThemeSwitcherModule } from './lib/angular-material-theme-switcher.module';
+export { AmThemeService } from './lib/service/am-theme.service';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL2FuZ3VsYXItbWF0ZXJpYWwtdGhlbWUtc3dpdGNoZXIvIiwic291cmNlcyI6WyJwdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7QUFJQSxtREFBYyw4Q0FBOEMsQ0FBQztBQUU3RCwrQkFBYyxnQ0FBZ0MsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgYW5ndWxhci1tYXRlcmlhbC10aGVtZS1zd2l0Y2hlclxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL2FuZ3VsYXItbWF0ZXJpYWwtdGhlbWUtc3dpdGNoZXIubW9kdWxlJztcblxuZXhwb3J0ICogZnJvbSAnLi9saWIvc2VydmljZS9hbS10aGVtZS5zZXJ2aWNlJztcbiJdfQ==

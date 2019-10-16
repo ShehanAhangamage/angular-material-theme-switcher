@@ -1,0 +1,21 @@
+{
+  "name": "angular-material-theme-switcher",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.9",
+    "@angular/core": "^8.2.9"
+  },
+  "main": "bundles/angular-material-theme-switcher.umd.js",
+  "module": "fesm5/angular-material-theme-switcher.js",
+  "es2015": "fesm2015/angular-material-theme-switcher.js",
+  "esm5": "esm5/angular-material-theme-switcher.js",
+  "esm2015": "esm2015/angular-material-theme-switcher.js",
+  "fesm5": "fesm5/angular-material-theme-switcher.js",
+  "fesm2015": "fesm2015/angular-material-theme-switcher.js",
+  "typings": "angular-material-theme-switcher.d.ts",
+  "metadata": "angular-material-theme-switcher.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
