@@ -110,13 +110,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-@angular/material/bottom-sheet
-
 @angular/material/button
 
-@angular/material/datepicker
-
-@angular/material/dialog
+@angular/material/card
 
 @angular/material/grid-list
 
@@ -126,7 +122,7 @@ THE SOFTWARE.
 
 @angular/material/slide-toggle
 
-@angular/material/snack-bar
+@angular/material/tabs
 
 @angular/material/toolbar
 
@@ -138,7 +134,8 @@ MIT
 @angular/router
 MIT
 
-angular-material-theme-switcher
+@sheyxneo/angular-material-theme-switcher
+MIT
 
 core-js
 MIT
