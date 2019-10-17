@@ -131,9 +131,6 @@ THE SOFTWARE.
 @angular/platform-browser
 MIT
 
-@angular/router
-MIT
-
 @sheyxneo/angular-material-theme-switcher
 MIT
 
